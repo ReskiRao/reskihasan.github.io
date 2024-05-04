@@ -24,4 +24,6 @@ title: "Policy Writing"
 <small>jointly published by *UNIGHA*, 2022 (with [Hendra Putra])
 </small>  
 
+[//]: # (Links)
+[Hendra Putra]: <https://scholar.google.com/citations?user=UU0E8C4AAAAJ&hl=id>
 
