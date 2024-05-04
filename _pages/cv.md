@@ -8,4 +8,4 @@ Download [here](https://reskirao.github.io/reskihasan.github.io/assets/files/CV 
 
 [//]: # (<iframe src="http://docs.google.com/gview?url=https://reskirao.github.io/reskihasan.github.io/assets/files/CV RESKI HASAN.pdf&embedded=true" style="width:718px; height:700px;" frameborder="0"></iframe>)
 
-<iframe src="https://docs.google.com/gview?url=[https://shanhuang-ec.github.io/assets/files/cv.pdf](https://reskirao.github.io/reskihasan.github.io/assets/files/CV RESKI HASAN.pdf)&embedded=true" style="width:100%; height:700px" frameborder="0"></iframe>
+<iframe src="https://docs.google.com/gview?url=https://reskirao.github.io/reskihasan.github.io/assets/files/CV RESKI HASAN.pdf&embedded=true" style="width:100%; height:700px" frameborder="0"></iframe>
