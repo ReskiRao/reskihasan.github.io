@@ -68,3 +68,6 @@ This article analyzes about english teachers ability and difficulty in speaking.
 Understanding what one reads is a significant component of the reading journey. To effectively engage with different types of texts, students must possess strong reading comprehension skills. The goal of this study is to figure out how well kids can understand various forms of literature. Descriptive, recount, report, narrative, and procedural texts are examples of different types of texts. In this research, a quantitative method is utilized to perform data calculations. Reading assessments are incorporated as a tool in this process. The assessments consist of 25 questions and offer a selection of five text types: descriptive, recount, report, narrative, and procedure texts. The findings indicate that students have demonstrated a 50 percent proficiency in comprehending different text types, which suggests a relatively low level of overall comprehension. However, there is a positive trend observed in the children's understanding of descriptive language.
 </small>
 </details>
+
+[//]: # (Links)
+[Henra Putra]: <https://scholar.google.com/citations?user=UU0E8C4AAAAJ&hl=id>
