@@ -5,7 +5,7 @@ permalink: /research/
 
 ### Working Papers
 
-[ANALYSIS OF ENGLISH TEACHERS’ ABILITY AND DIFFICULTY IN SPEAKING] (https://journal.unigha.ac.id/index.php/EE/article/view/586) <br/>
+[ANALYSIS OF ENGLISH TEACHERS’ ABILITY AND DIFFICULTY IN SPEAKING](https://journal.unigha.ac.id/index.php/EE/article/view/586) <br/>
 <small>*Jurnal of Education* (with [Hendra Putra]) <br>
 
 <details>
