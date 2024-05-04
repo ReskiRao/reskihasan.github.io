@@ -5,8 +5,8 @@ permalink: /research/
 
 ### Working Papers
 
-[ANALYSIS OF ENGLISH TEACHERS’ ABILITY AND DIFFICULTY IN SPEAKING]([Not available yet](https://journal.unigha.ac.id/index.php/EE/article/view/586) <br/>
-<small>*Jurnal of Education* (with [Henra Putra]) <br>
+[ANALYSIS OF ENGLISH TEACHERS’ ABILITY AND DIFFICULTY IN SPEAKING] (https://journal.unigha.ac.id/index.php/EE/article/view/586) <br/>
+<small>*Jurnal of Education* (with [Hendra Putra]) <br>
 
 <details>
 <summary><small>Abstract</small></summary>
@@ -16,7 +16,7 @@ This article analyzes about english teachers ability and difficulty in speaking.
 </details>
 
 [MASTERING ALL GENRES: EXPLORING NINTH GRADE STUDENTS' TEXT COMPREHENSION SKILLS THROUGH GOOGLE FORMS](https://jurnal.untan.ac.id/index.php/JEEP/article/view/91-97) <br/>
-<small>*Jurnal of Education* (with [Henra Putra]) <br>
+<small>*Jurnal of Education* (with [Hendra Putra]) <br>
 
 <details>
 <summary><small>Abstract</small></summary>
@@ -27,8 +27,8 @@ Understanding what one reads is a significant component of the reading journey. 
 
 ### Publications
 
-[ANALYSIS OF ENGLISH TEACHERS’ ABILITY AND DIFFICULTY IN SPEAKING]([Not available yet](https://journal.unigha.ac.id/index.php/EE/article/view/586) <br/>
-<small>*Jurnal of Education* (with [Henra Putra]) <br>
+[ANALYSIS OF ENGLISH TEACHERS’ ABILITY AND DIFFICULTY IN SPEAKING](https://journal.unigha.ac.id/index.php/EE/article/view/586) <br/>
+<small>*Jurnal of Education* (with [Hendra Putra]) <br>
 
 <details>
 <summary><small>Abstract</small></summary>
@@ -38,7 +38,7 @@ This article analyzes about english teachers ability and difficulty in speaking.
 </details>
 
 [MASTERING ALL GENRES: EXPLORING NINTH GRADE STUDENTS' TEXT COMPREHENSION SKILLS THROUGH GOOGLE FORMS](https://jurnal.untan.ac.id/index.php/JEEP/article/view/91-97) <br/>
-<small>*Jurnal of Education* (with [Henra Putra]) <br>
+<small>*Jurnal of Education* (with [Hendra Putra]) <br>
 
 <details>
 <summary><small>Abstract</small></summary>
@@ -49,8 +49,8 @@ Understanding what one reads is a significant component of the reading journey. 
 
 ### Work in Progress
 
-[ANALYSIS OF ENGLISH TEACHERS’ ABILITY AND DIFFICULTY IN SPEAKING]([Not available yet](https://journal.unigha.ac.id/index.php/EE/article/view/586) <br/>
-<small>*Jurnal of Education* (with [Henra Putra]) <br>
+[ANALYSIS OF ENGLISH TEACHERS’ ABILITY AND DIFFICULTY IN SPEAKING](https://journal.unigha.ac.id/index.php/EE/article/view/586) <br/>
+<small>*Jurnal of Education* (with [Hendra Putra]) <br>
 
 <details>
 <summary><small>Abstract</small></summary>
@@ -60,7 +60,7 @@ This article analyzes about english teachers ability and difficulty in speaking.
 </details>
 
 [MASTERING ALL GENRES: EXPLORING NINTH GRADE STUDENTS' TEXT COMPREHENSION SKILLS THROUGH GOOGLE FORMS](https://jurnal.untan.ac.id/index.php/JEEP/article/view/91-97) <br/>
-<small>*Jurnal of Education* (with [Henra Putra]) <br>
+<small>*Jurnal of Education* (with [Hendra Putra]) <br>
 
 <details>
 <summary><small>Abstract</small></summary>
@@ -70,4 +70,4 @@ Understanding what one reads is a significant component of the reading journey. 
 </details>
 
 [//]: # (Links)
-[Henra Putra]: <https://scholar.google.com/citations?user=UU0E8C4AAAAJ&hl=id>
+[Hendra Putra]: <https://scholar.google.com/citations?user=UU0E8C4AAAAJ&hl=id>
