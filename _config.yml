@@ -67,18 +67,18 @@ author:
   bio: "I'm a Bachelor Degree in English Education from **Indonesia Open University**. I'm interested in Computer Science."
   location: "Sumatra, Indonesia"
   links:
-    - label: "Twitter"
-      icon: "fab fa-twitter"
-      url: "https://twitter.com/reskihasan"
-    - label: "SSE page"
-      icon: "fas fa-fw fa-link"
-      url: "none/"
+    - label: "Instagram"
+      icon: "fab fa-instagram"
+      url: "https://www.instagram.com/reskirao/"
+    - label: "Linkedin"
+      icon: "fas fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/reski-hasan-9a66a9163/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: #"https://github.com/ReskiRao"
+      url: #"https://reskirao.github.io/"
     - label: "Email"
       icon: "fas fa-envelope"
-      url: "mailto:raoreski@gmail.com"
+      url: "mailto:reskihasan09@guru.smp.belajar.id"
 
 footer:
 #  links:
