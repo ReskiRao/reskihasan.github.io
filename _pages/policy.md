@@ -14,8 +14,6 @@ title: "Policy Writing"
 </small>  
 
 
-### In German
-
 [ALLE GENRES BEHERRSCHEN: ENTDECKEN SIE DIE TEXTVERSTÄNDNISFÄHIGKEITEN VON NEUNTKLASSE-SCHÜLERN DURCH GOOGLE-FORMULARE](https://jurnal.untan.ac.id/index.php/JEEP/article/view/91-97) <br/>
 <small>jointly published by *UNTAN*, 2023 (with [Hendra Putra])
 </small>  
